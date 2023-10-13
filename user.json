@@ -1,0 +1,30 @@
+[
+  {
+      "id": 1,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "age": 30,
+      "address": {
+          "street": "123 Main St",
+          "city": "Anytown",
+          "state": "CA",
+          "zip": "12345"
+      },
+      "is_active": true,
+      "hobbies": ["Reading", "Hiking", "Cooking"]
+  },
+  {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "age": 25,
+      "address": {
+          "street": "456 Elm St",
+          "city": "Anotherville",
+          "state": "NY",
+          "zip": "54321"
+      },
+      "is_active": false,
+      "hobbies": ["Painting", "Swimming", "Gardening"]
+  }
+]
